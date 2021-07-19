@@ -23,7 +23,7 @@ I'm Gehani from Sri Lanka, and I do content on Design and Development. I really 
 </p><br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpgehani20)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;&nbsp [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpgehani20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpgehani20)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpgehani20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## 🧰 Languages and Tools:
 
