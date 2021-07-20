@@ -2,10 +2,14 @@
 ### I'm a Undergraduate, Designer and Developer :relaxed::heart: -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.dpgehani20)
 
-### Hi there 👋, I'm Gehani Dilhara <hr>
+## Hi there 👋 
+##### <i>I'm Gehani from Sri Lanka, and I do content on Design and Development. I really enjoy learning different programming languages and frameworks.</i> 
+
+<hr>
+
 ![](https://www.zenofcoding.com/wp-content/uploads/2015/06/GitHub.jpg)
 
-I'm Gehani from Sri Lanka, and I do content on Design and Development. I really enjoy learning different programming languages and frameworks. 
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning everything 
