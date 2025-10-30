@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.dpgehani20)
 
 ## Hi there 👋 I'm Gehani
-🎯 **Senior QA Engineer | Test Automation Enthusiast | Quality Advocate**
+🎯 **QA Engineer | Test Automation Enthusiast | Quality Advocate**
 
 <hr>
 
