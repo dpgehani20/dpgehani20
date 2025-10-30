@@ -2,19 +2,21 @@
 ### I'm a Undergraduate, Designer and Developer :relaxed::heart: -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.dpgehani20)
 
-## Hi there 👋 
-##### <i>I'm Gehani from Sri Lanka, and I do content on Design and Development. I really enjoy learning different programming languages and frameworks.</i> 
+## Hi there 👋 I'm Gehani
+🎯 **Senior QA Engineer | Test Automation Enthusiast | Quality Advocate**
 
 <hr>
 
 ![](https://www.zenofcoding.com/wp-content/uploads/2015/06/GitHub.jpg)
 
+### 🌟 About Me
 
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate on Open Source Projects 
-- ⚡ Fun fact: I Love to watch movie and listen to music 
+- 🔭 I’m currently working on data validation, regression, and interface testing for large-scale hotel management systems.  
+- 🌱 I’m continuously learning test automation, API testing, and performance testing tools.  
+- 🧠 I love exploring new QA methodologies and enhancing efficiency with smart test design.  
+- 👯 I’m open to collaborating on QA automation frameworks and open-source testing tools.  
+- 💬 Ask me about manual testing, API testing, test case design, or quality control strategies.  
+- ⚡ Fun fact: I love watching movies 🎬 and listening to music 🎧 in my free time!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
